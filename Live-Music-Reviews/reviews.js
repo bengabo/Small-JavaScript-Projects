@@ -7,7 +7,7 @@ const reviews = [
     year: "1992",
     genre:"rock",
     text: "Simply take a look at the musicians and singers involved if you can\'t listen to the whole thing. Bob Dylan, Tom Petty, Neil Young, Eric Clapton, George Harrison... That is called \"music\"!",
-    video: "https://www.youtube.com/embed/CS_VF0nkpFk"
+    video: "https://www.youtube.com/embed/rEoZfu-XNZc"
   },
   {
     id:2,
@@ -21,12 +21,12 @@ const reviews = [
   },
   {
     id:3,
-    artist: "Prince, Tom Petty, Steve Winwood, Jeff Lynne and others",
+    artist: "Tom Petty, Steve Winwood, Jeff Lynne and Prince",
     song: "While My Guitar Gently Weeps",
     concert : "Hall of Fame Inductions",
     year: "2004",
     genre:"rock",
-    text: "It's one of the most satisfying musical moments in the history of music. All musicians are great but when Prince came on stage, he literally stole the show. He just burned it up. You could feel the electricity of something really big and special.",
+    text: "It's one of the most satisfying musical moments in the history of music. All musicians are great but when Prince came on stage, he literally stole the show. He just burned it up. You could feel the electricity of something really big and special when he played an all-star version of the extended outro solo.",
     video: "https://www.youtube.com/embed/6SFNW5F8K9Y"
   },
   {
